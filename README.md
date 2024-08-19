@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichelleNBauer
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning how to build websites with live data using APIs and advanced JavaScript
-- ⚡ Fun fact: I do powerlifitng and can deadlift 3x my bodyweight
+- ⚡ Fun fact: I do powerlifting and can deadlift 3x my bodyweight
 - 📫 How to reach me www.linkedin.com/in/michellenbauer 
 
 
